@@ -1,1 +1,1 @@
-# Simple homepage design using html and css.
+# Beautiful homepage of a website using html and css.
